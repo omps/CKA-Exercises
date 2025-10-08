@@ -32,8 +32,8 @@ During the exam, you will have access to six different clusters (below) in the f
 
 Also during the exam, you may have one and ONLY one of the following tabs open at all times:  
 [kubernetes.io/docs](https://kubernetes.io/docs/home/)  
-[kubernetes.io/blog](https://kubernetes.io/blog/)
-[https://gateway-api.sigs.k8s.io/](https://gateway-api.sigs.k8s.io/)
+[kubernetes.io/blog](https://kubernetes.io/blog/)  
+[https://gateway-api.sigs.k8s.io/](https://gateway-api.sigs.k8s.io/)  
 [https://helm.sh/docs](https://helm.sh/docs)
 
 
