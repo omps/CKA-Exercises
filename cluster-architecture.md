@@ -143,7 +143,7 @@ k get csr sandra -o jsonpath='{.status.certificate}' | base64 -d > sandra.crt
 
 ```bash
 # set the credentials in your existing kubeconfig (~.kube/config)
-k config set-credentials carlton --client-key=sandra.key --client-certificate=sandra.crt --embed-certs
+k config set-credentials sandra --client-key=sandra.key --client-certificate=sandra.crt --embed-certs
 
 # view the kubeconfig to see sandra added
 k config view
